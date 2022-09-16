@@ -28,6 +28,3 @@ else:
     print("Mi spiace non sei maggiorenne. Chiedi ai tuuoi genitori.")
 
 
-
-#Controllo l'età
-
